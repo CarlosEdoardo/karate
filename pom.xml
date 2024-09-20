@@ -41,7 +41,7 @@
         <junit5.version>5.10.2</junit5.version>
         <nexus.staging.plugin.version>1.6.13</nexus.staging.plugin.version>
         <spring.version>5.3.19</spring.version>
-        <spring.boot.version>2.6.6</spring.boot.version>
+        <spring.boot.version>3.2.10</spring.boot.version>
         <jacoco.plugin.version>0.7.9</jacoco.plugin.version>
     </properties>
 
